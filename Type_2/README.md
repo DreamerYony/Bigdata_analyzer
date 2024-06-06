@@ -7,6 +7,9 @@
 - Mobile_Price(Classification).ipynb : Mobile_price_X_train.csv / Mobile_price_X_test.csv / Mobile_price_y_train.csv
 - Mobile_Price(Regression).ipynb : Reg_Mobile_X_train.csv / Reg_Mobile_X_test.csv / Reg_Mobile_y_train.csv
 ### 풀이 과정
+- 분류 과제와 회귀 과제 모두 주요 풀이 과정은 다음의 순서를 따르고 있습니다.
+- 실기 시험은 따로 코드에 대한 정답이 존재하지는 않습니다.
+- 하지만 실전에 대비하기 위하여 정해진 순서를 외우고 간다면 도움이 될 것 같습니다.😁
 1. 패키지 불러오기
 2. 데이터 파일 읽기
 3. info() 함수로 기본적인 정보 확인
