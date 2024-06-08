@@ -7,7 +7,6 @@
 - Mobile_Price(Regression).ipynb : 모바일폰의 RAM의 용량을 예측하는 과제
 ### 포함된 데이터셋
 - Mobile_Price(Classification).ipynb : Mobile_price_X_train.csv / Mobile_price_X_test.csv / Mobile_price_y_train.csv
-- Mobile_Price(Regression).ipynb : Reg_Mobile_X_train.csv / Reg_Mobile_X_test.csv / Reg_Mobile_y_train.csv
 ### 풀이 과정
 - 분류 과제와 회귀 과제 모두 주요 풀이 과정은 다음의 순서를 따르고 있습니다.
 - 실기 시험은 따로 코드에 대한 정답이 존재하지는 않습니다.
