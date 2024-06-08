@@ -4,7 +4,7 @@
 #### Classification
 - Mobile_Price(Classification).ipynb : 모바일폰의 가격대를 예측하는 과제 
 #### Regression
-- Mobile_Price(Regression).ipynb : 모바일폰의 RAM의 용량을 예측하는 과제
+- 
 ### 포함된 데이터셋
 - Mobile_Price(Classification).ipynb : Mobile_price_X_train.csv / Mobile_price_X_test.csv / Mobile_price_y_train.csv
 ### 풀이 과정
