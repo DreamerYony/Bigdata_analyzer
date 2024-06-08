@@ -6,4 +6,4 @@
 - 이러한 평가지표는 sklearn.metrics에서 accuracy_score, f1_score, roc_auc_score를 임포트하여 사용하면 됩니다.
 ### 🐠 포함된 파일
 - Mobile_Price(Classification).ipynb : original version. 
-- Mobile_Price(simple_version).ipynb : simple version. 일부 단계는 생략하나 필요한 과정은 수행합니다.
+- Mobile_Price(simple_version).ipynb : simple version. 일부 단계는 생략합니다.
