@@ -7,4 +7,4 @@
 ### 🐠 포함된 파일
 - Mobile_Price(Classification).ipynb : original version. 모바일 폰의 가격 범위를 예측합니다.
 - Mobile_Price(simple_version).ipynb : simple version. 일부 단계는 생략합니다.
-- Star_size(simple_version).ipynb : 별의 크기를 예측합니다. simple version. 일부 단계는 생략합니다.
+- Star_size(simple_version).ipynb : 별의 크기를 예측합니다. simple version으로 일부 단계는 생략합니다.
