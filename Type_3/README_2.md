@@ -25,7 +25,8 @@ result = logit('종속변수 ~ 독립변수1 + 독립변수2 + ...', data=해당
 print(result)  --> 한번에 사용하는 방법  
 2. 두번째 방법  
 model = logit('종속변수 ~ 독립변수1 + 독립변수2 + ...', data=해당데이터셋).fit()  
-print(model.summary())  
+print(model.summary())
+  
 <오즈비 구하는 방법>  
 자연로그의 오즈비를 쉽게 확인하기 위해 지수함수로 바꾸어주어야 합니다.  
 1. 첫번째 방법  
