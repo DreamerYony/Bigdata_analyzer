@@ -3,7 +3,7 @@
 from scipy.stats import shapiro  
 statistic, p_value = shapiro(x)
 ### 🚀 등분산성 검정
-from scipy.stats import levene
+from scipy.stats import levene  
 statistic, p_value = levene(*samples)
 ### 🚀 한 개 그룹일 때 
 - 단일표본 t-검정 : stats.ttest_1samp(x, 특정값, alternative)
